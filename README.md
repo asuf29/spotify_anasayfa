@@ -1,1 +1,1 @@
-# spotify_anasayfa
+# Spotify Anasayfa Web Tasarımı
